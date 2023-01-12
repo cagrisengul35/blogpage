@@ -1,0 +1,15 @@
+#post-hr{
+    margin-top: 85px;
+}
+.wrapper{
+    
+    min-height: 600px;
+}
+.content{
+    float: left;
+    height: auto;
+    width: 1100px; 
+}
+.footer{
+    margin-top: 100vmax;
+}

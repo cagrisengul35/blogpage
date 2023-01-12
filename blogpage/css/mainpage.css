@@ -1,0 +1,23 @@
+.post-flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.post {
+  width: 30%;
+  margin-bottom: 100px;
+}
+
+.post-img img {
+  width: 100%;
+  height: auto;
+}
+
+.pages{
+  text-align: center;
+}
+
+.pages > span{
+  margin: 5px;
+}

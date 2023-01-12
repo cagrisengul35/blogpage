@@ -1,0 +1,35 @@
+.navbar{
+    margin-bottom: 100px;
+}
+
+.footer{
+    margin-top: 150px;
+}
+
+#contact-form{
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+label {
+  display: block;
+  margin-bottom: -1rem;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-left: -10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+textarea {
+  height: 200px;
+}
